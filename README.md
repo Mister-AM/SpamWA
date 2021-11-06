@@ -30,7 +30,7 @@ $ sudo apt-get --force-yes -y install git python python-pip
 
 ## cara jalankan dark_compile
 ```sh
-$ git clone https://github.com/DARK-02/dark_wa.git
-$ cd dark_wa
+$ git clone https://github.com/DARK-02/SpWA9.git
+$ cd SpamWA
 $ pip install requests mechanize
-$ python dark_wa.py
+$ python spam_wa.py
