@@ -1,4 +1,4 @@
-# dark_wa
+# SpamWA
 **This is the official and only wa spamer of the dark_wa.py project.**
 
 *Made: indonesia
