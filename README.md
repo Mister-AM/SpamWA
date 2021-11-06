@@ -5,7 +5,7 @@
 
 *By: MR.DARK
 
-*Subscribe channel MR_DARK ok >_<
+*Subscribe channel Mister AM and Mr_Dark ok >_<
 
 
 # FITUR
